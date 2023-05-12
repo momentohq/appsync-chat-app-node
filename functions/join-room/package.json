@@ -1,0 +1,10 @@
+{
+  "name": "join-room",
+  "version": "1.0.0",
+  "description": "Join a chat room",
+  "main": "index.js",
+  "author": "Momento, Inc",
+  "dependencies": {
+    "@gomomento/sdk": "^1.14.0"
+  }
+}
